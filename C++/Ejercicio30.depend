@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1477162522 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio30\main.cpp
+	<iostream>
+	"Cifrado.h"
+
+1477162544 c:\users\omarm\dropbox\codeblocks proyects\ejercicio30\include\cifrado.h
+	<iostream>
+
+1477162610 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio30\src\cifrado.cpp
+	"Cifrado.h"
+
